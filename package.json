@@ -1,0 +1,15 @@
+{
+  "name": "js-bootcamp",
+  "version": "1.0.0",
+  "description": "JavaScript BootCamp Course",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "\"\"\u001b[Djavascript",
+    "tutorial\""
+  ],
+  "author": "Zoe Gao",
+  "license": "ISC"
+}
